@@ -93,6 +93,11 @@ $ python delimg.py
 執行後
 ![alt tag-2](https://imgur.com/tNf2dbs.png"2")
 
+<hr>
+
+### Demo
+![demo](https://imgur.com/GnnPBOp.gif)
+
 ## 執行環境
 
 * Python 3.7.6
