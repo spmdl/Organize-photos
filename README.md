@@ -58,14 +58,14 @@ $ python classification.py
 
 ![alt tag](https://imgur.com/TM9nra7.png)
 
-****
+<hr>
 
 執行前
 ![alt tag-1](https://imgur.com/mVLDze4.png"1")
 執行後
 ![alt tag-2](https://imgur.com/67wMGl2.png"2")
 
-****
+<hr>
 
 多個的情況，假設今天拍小王拍很多套衣服或是場景：就適合輸入 2
 
@@ -86,7 +86,7 @@ $ python delimg.py
 
 ![delimg.py](https://imgur.com/VbvVpmr.png)
 
-****
+<hr>
 
 執行前
 ![alt tag-1](https://imgur.com/cF1WI09.png"1")
