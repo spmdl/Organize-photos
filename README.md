@@ -19,8 +19,11 @@
 ## Background
 
 classification.py：分類 JPG, RAW 
+
 delimg.py：刪除多餘的檔案（比較 JPG, RAW 兩個資料夾，迭代比較多檔案的資料夾，若沒出現在比較少的資料夾裡就移到 Del 資料夾中）
+
 default_path.txt：存放照片的目錄（Ex：/Users/angus/Desktop/攝影/圖債/未整理），這個目錄底下會有很多我拍攝完未整理的資料夾
+
 file_extension.txt：紀錄上一次使用 classification.py 所分類的資料夾名稱（為了 delimg 比較 RAW, JPG哪個檔案比較多）
 
 ## Install
