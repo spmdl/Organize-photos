@@ -32,7 +32,7 @@ file_extension.txt：紀錄上一次使用 classification.py 所分類的資料�
 
 ## Usage
 
-#### 第一步：手動 key 照片目錄的路徑到 default_path.txt 
+### 第一步：手動 key 照片目錄的路徑到 default_path.txt 
 
 開啟終端機 -> cd 到目錄底下 -> pwd -> 複製路徑 
 
@@ -45,7 +45,7 @@ $ pwd
 
 ![alt tag](https://imgur.com/aaocYip.png)
 
-#### 第二步：classification.py
+### 第二步：classification.py
 
 先 cd 到 Organize-photos 目錄底下 -> 執行 classification.py -> 選擇資料夾 -> 多個或單個 -> exit
 
@@ -62,7 +62,7 @@ $ python classification.py
 
 ![directory](https://imgur.com/vDVVaz1.png)
 
-#### 第三步：delimg.py
+### 第三步：delimg.py
 
 可以看一下 file_extension.txt 內容和要分類的資料夾是否相同（RAW 有沒有一樣），因為 delimg 是讀入 file_extension.txt 來比較兩個資料夾的檔案哪個多
 
