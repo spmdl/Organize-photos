@@ -31,30 +31,33 @@ file_extension.txt：紀錄上一次使用 classification.py 所分類的資料�
 
 #### 第一步：手動 key 照片目錄的路徑到 default_path.txt 
 
-開啟終端機 -> cd 到目錄底下 -> pwd ->複製路徑 
-```sh
+開啟終端機 -> cd 到目錄底下 -> pwd -> 複製路徑 
+
+```bash
 $ cd Desktop/攝影/圖債/未整理
 $ pwd
 ```
+
 複製路徑 -> 開啟 default_path.txt -> 貼上剛剛複製的路徑
-![pwd](https://imgur.com/aaocYip)
+
+![alt tag](https://imgur.com/aaocYip.png)
 
 #### 第二步：classification.py
 
 先 cd 到 Organize-photos 目錄底下 -> 執行 classification.py -> 選擇資料夾 -> 多個或單個 -> exit
 
-```sh
+```bash
 $ python classification.py
 >>> Input folder: 小王
 多個輸入 2 單個輸入 1：1
 >>> Input folder or exit: exit
 ```
 
-![classification.py](https://imgur.com/TM9nra7)
+![alt tag](https://imgur.com/TM9nra7.png)
 
 多個的情況，假設今天拍小王拍很多套衣服或是場景：就適合輸入 2
 
-![directory](https://imgur.com/vDVVaz1)
+![directory](https://imgur.com/vDVVaz1.png)
 
 #### 第三步：delimg.py
 
@@ -62,14 +65,14 @@ $ python classification.py
 
 執行 delimg.py -> 選擇資料夾 -> 多個或單個 -> exit
 
-```sh
+```bash
 $ python delimg.py
 >>> Input folder: 小王
 多個輸入 2 單個輸入 1：1
 >>> Input folder or exit: exit
 ```
 
-![delimg.py](https://imgur.com/VbvVpmr)
+![delimg.py](https://imgur.com/VbvVpmr.png)
 
 ## 執行環境
 
